@@ -1,4 +1,4 @@
-#About me
+# About me
 
 **klein-moretti-dmh/klein-moretti-dmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

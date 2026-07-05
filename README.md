@@ -1,9 +1,5 @@
 # About me
 
-**klein-moretti-dmh/klein-moretti-dmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on robot vision
 - 🌱 I’m currently learning cv2
 - 👯 I’m looking to collaborate on robot sorting express packages

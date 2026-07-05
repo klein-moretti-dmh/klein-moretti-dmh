@@ -1,8 +1,8 @@
 # About me
 
-- 🔭 I’m currently working on robot vision
-- 🌱 I’m currently learning cv2
-- 👯 I’m looking to collaborate on robot sorting express packages
+1. 🔭 I’m currently working on robot vision
+2. 🌱 I’m currently learning cv2
+3. 👯 I’m looking to collaborate on robot sorting express packages
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
